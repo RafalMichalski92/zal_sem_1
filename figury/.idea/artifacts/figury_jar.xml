@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" name="figury:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/figury_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="figury" />
+    </root>
+  </artifact>
+</component>
